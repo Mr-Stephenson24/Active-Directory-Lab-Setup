@@ -2,7 +2,7 @@
 
 This project demonstrates the setup and configuration of a Windows Active Directory (AD) Lab in a virtualized environment. The goal of this lab is to replicate a real-world enterprise environment for practicing identity management, authentication, group policy, and security monitoring
 
- Lab Components
+ # Lab Components
 
 Domain Controller (Windows Server) – Configured with Active Directory Domain Services (AD DS).
 
@@ -14,7 +14,7 @@ Group Policy Objects (GPOs) – Used to enforce security policies, drive mapping
 
 DNS & DHCP Services – Configured for name resolution and IP address assignment.
 
- Tools & Technologies
+ # Tools & Technologies
 
 VirtualBox / VMware / Hyper-V (for virtualization)
 
@@ -26,7 +26,7 @@ Active Directory Domain Services (AD DS)
 
 Group Policy Management Console (GPMC)
 
-Lab Exercises
+#  Lab Exercises
 
 Install and configure Windows Server as a Domain Controller.
 
@@ -43,7 +43,7 @@ Apply Group Policy Objects (GPOs) to enforce rules (password policies, desktop r
 Test authentication and permissions across different accounts.
 
 
- Learning Outcomes
+#  Learning Outcomes
 
 By completing this lab, I:
 
