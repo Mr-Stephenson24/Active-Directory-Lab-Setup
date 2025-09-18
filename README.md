@@ -42,9 +42,6 @@ Apply Group Policy Objects (GPOs) to enforce rules (password policies, desktop r
 
 Test authentication and permissions across different accounts.
 
-Screenshots
-
-(Add screenshots of your Domain Controller, AD structure, and client machines here)
 
  Learning Outcomes
 
